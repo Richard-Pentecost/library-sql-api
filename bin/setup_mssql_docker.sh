@@ -1,0 +1,3 @@
+docker run -d -p 3307:3306 --name libary_mysql -e MYSQL_ROOT_PASSWORD=password mysql
+
+echo database started...
